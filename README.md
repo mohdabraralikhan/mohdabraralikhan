@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohdabraralikhan
-- 👀 I’m interested in web development, android development, ux design and machine learning
-- 🌱 I’m currently learning Angular 13, Nodejs, Express and Jetpack Compose(Kotlin) 
+- 👀 I’m interested in web development, ux design,android development,  and machine learning
+- 🌱 I’m currently learning Angular 13, Nodejs 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
